@@ -1,4 +1,4 @@
-# Drawer navigation example
+# React Native App
 
 <p>
   <!-- iOS -->
@@ -13,8 +13,3 @@
 
 - Install with `yarn` or `npm install`.
 - Run `expo start` to try it out.
-
-## 📝 Notes
-
-- This is a very basic example from the [react navigation](https://reactnavigation.org/) docs.
-- [Drawer navigation documentation](https://reactnavigation.org/docs/drawer-based-navigation).
